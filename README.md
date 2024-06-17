@@ -1,5 +1,4 @@
 <h1 align="center">
-  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1A09F7&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+Everyone!++%E2%9C%8B;I'm+NohSungwoo+....;Nice+to+Meet+You!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">  
@@ -100,12 +99,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align='center'>
-<img src="https://github.com/NohSungwoo/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
  <img src='https://github-readme-stats.vercel.app/api?username=NohSungwoo&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NohSungwoo&layout=compact'>
+<br>
+### 🧑‍🎓 BAEKJOON
+<br>
  <a herf="https://solved.ac/profile/shtjddn0817/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=shtjddn0817>
 </a
+</div>
+
+<div align='center'>
+### 🧑‍🎓 PROGRAMMERS
+	
+[![](https://github.com/NohSungwoo/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/NohSungwoo/github-programmers-rank)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -121,9 +128,8 @@
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=NohSungwoo&repo=Dev-Book-Club'>
  </a>
 </div>
-
 <h4 align="center">
   <a href="https://github.com/NohSungwoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
-[![](https://github.com/youngkwangjoo/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/youngkwangjoo/github-programmers-rank) 
+<img src="https://github.com/NohSungwoo/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
