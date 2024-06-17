@@ -49,14 +49,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <img src="https://github.com/NohSungwoo/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
-[![](https://github.com/NohSungwoo/github-programmers-rank/blob/master/lib/result.svg)(https://github.com/NohSungwoo/github-programmers-rank)
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=JoonHoSeong&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=JoonHoSeong&layout=compact'>
  <a herf="https://solved.ac/profile/joonho1366/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho1366>
 </a
-
+[![](https://github.com/NohSungwoo/github-programmers-rank/blob/master/lib/result.svg)(https://github.com/NohSungwoo/github-programmers-rank)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
