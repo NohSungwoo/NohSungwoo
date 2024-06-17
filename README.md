@@ -13,14 +13,6 @@
   <br>
   🔬 I'm currently studying backend.
   <br>
-  🎓 I graduated from Catholic University and majored in Computer Science and Media Engineering (Bachelor of Engineering).
-  <br>
- ✍Worked at the Compter Vision Machine Learning lab at Catholic University for about 2 years.
- <br>
-:military_helmet: I was a communications platoon leader in the South Korean Army for two and a half years (Discharged as Army Lieutenant).
-  <br>
-  :robot: I worked as an AI/ML engineer at a startup for 2 years and 5 months.
-  <br>
   💻 I love coding and learning new things.
   <br>
   <br>
