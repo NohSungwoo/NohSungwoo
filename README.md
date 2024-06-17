@@ -100,6 +100,7 @@
 <br>
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=NohSungwoo&show_icons=true'>
+<br>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NohSungwoo&layout=compact'>
 <br>
 	
