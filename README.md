@@ -52,8 +52,8 @@
 <img src="https://github.com/NohSungwoo/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
  <img src='https://github-readme-stats.vercel.app/api?username=NohSungwoo&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NohSungwoo&layout=compact'>
- <a herf="https://solved.ac/profile/NohSungwoo/", target="_blank">
-	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=NohSungwoo>
+ <a herf="https://solved.ac/profile/shtjddn0817/", target="_blank">
+	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=shtjddn0817>
 </a
 </div>
 <hr>
