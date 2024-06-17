@@ -91,7 +91,7 @@
     </table>
 <br><br>
 <hr>
-<h2 align="center">⏳ I'll learning ⏳</h2>
+<h2 align="center">⏳ I'll learn ⏳</h2>
 <br>
 <div align='center'>
  
