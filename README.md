@@ -55,7 +55,6 @@
  <a herf="https://solved.ac/profile/joonho1366/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=joonho1366>
 </a
-[![](https://github.com/NohSungwoo/github-programmers-rank/blob/master/lib/result.svg)(https://github.com/NohSungwoo/github-programmers-rank)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -76,3 +75,4 @@
   <a href="https://github.com/NohSungwoo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
+[![](https://github.com/NohSungwoo/github-programmers-rank/blob/master/lib/result.svg)(https://github.com/NohSungwoo/github-programmers-rank)
