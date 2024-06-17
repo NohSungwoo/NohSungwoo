@@ -49,7 +49,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <img src="https://github.com/NohSungwoo/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
-<br>
 [![](https://github.com/NohSungwoo/github-programmers-rank/blob/master/lib/result.svg)(https://github.com/NohSungwoo/github-programmers-rank)
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=JoonHoSeong&show_icons=true'>
