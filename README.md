@@ -9,36 +9,87 @@
 <br>
 <p align="center">
 
-  <br>
-  <br>
-  🔬 I'm currently studying backend.
-  <br>
-  💻 I love coding and learning new things.
-  <br>
-  <br>
-  📫 How to reach me: <a href="mailto: shtjddn0817@gmail.com">shtjddn0817@gmail.com</a>
+<br>
+<br>
+🔬 I'm currently studying backend.
+<br>
+💻 I love coding and learning new things.
+<br>
+<br>
+📫 How to reach me: <a href="mailto: shtjddn0817@gmail.com">shtjddn0817@gmail.com</a>
 </p>
 
 <hr>
 <h2 align="center">🔥 Programming skills 🔥</h2>
 <br>
-<div align="center">
- <img src='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'>
- <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
- <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)'>
- <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
- <br>
-</div>
-<hr>
-<h2 align="center">:mechanical_arm: I'm learning :mechanical_arm:</h2>
-<br>
-<div align='center'>
- <img src='https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white'>
- <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white'>
- <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white'>
- <img src='https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi'>
- <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'>
-</div>
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+                </a>
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+                <br>AWS
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+                <br>Django
+	    </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+                <br>Github
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96"> 
+                <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center"  width="96">
+                <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+                <br>HTML5
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+                <br>CSS
+            </td>
+            <td align="center"  width="96">
+                <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+                <br>Bootstrap
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+                <br>jQuery
+            </td>
+	    <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+                <br>VsCode
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+        </tr>
+    </table>
+<br><br>
 <hr>
 <h2 align="center">⏳ I'll learning ⏳</h2>
 <br>
