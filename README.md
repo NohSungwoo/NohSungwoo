@@ -99,9 +99,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=NohSungwoo&show_icons=true'>
-<br>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NohSungwoo&layout=compact'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api?username=NohSungwoo&show_icons=true'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NohSungwoo&layout=compact'>
 <br>
 	
 ### 🧑‍🎓 BAEKJOON
